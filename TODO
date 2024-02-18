@@ -1,1 +1,2 @@
 User can click on the checkbox, but the state won't be updated in the database
+highlight moused over todo for better qol
